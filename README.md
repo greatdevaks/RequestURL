@@ -1,4 +1,4 @@
-# RequestURL
+# RequestURL Application
 This is an Android Application to demonstrate "Sending Simple Request" using Volley Library.
 Remember following things when just refering this project's code and not cloning:
 
